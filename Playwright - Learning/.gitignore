@@ -1,12 +1,13 @@
 
 # Playwright
 node_modules/
+/.vscode/
 /test-results/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
-/gitignore/
+/.gitignore/
 /package-lock.json/
 /package.json/
 /playwright.config.ts/
